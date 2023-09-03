@@ -11,4 +11,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal
 Com minha determinação e dedicação, estou confiante de que posso continuar a expandir meu conhecimento e aprimorar minhas habilidades para acompanhar as tendências e necessidades do mercado de tecnologia em constante evolução.
 </p>
 
+## Contatos
+
+<a href="https://www.linkedin.com/in/mateus-silva2003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/mateus_hls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mateushls01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
