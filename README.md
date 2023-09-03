@@ -12,7 +12,7 @@ Com minha determinação e dedicação, estou confiante de que posso continuar a
 </p>
 
 ## Contatos
-<a href="https://www.linkedin.com/in/mateus-silva2003/" target="_blank"><img src="https://img.shields.io/badge/-Github-%343a40?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/mateushlsilva" target="_blank"><img src="https://img.shields.io/badge/-Github-%343a40?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-silva2003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/mateus_hls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mateushls01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
