@@ -18,20 +18,16 @@ Com minha determinação e dedicação, estou confiante de que posso continuar a
 <a href = "mailto:mateushls01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Principais conhecimentos
-### Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)
 
-### Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev)
+| Front-end | Back-end | Banco de Dados | Sistema Operacional | Versionamento | Orquestração de containers |
+|-------------|-------------|-------------|-------------------|-------------|-------------------|
+|[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,bash,)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=git )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)|
 
-### Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
-### Sistema Operacional
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,)](https://skillicons.dev)
 
-### Versionamento
-[![My Skills](https://skillicons.dev/icons?i=git )](https://skillicons.dev)
 
-### Orquestração de containers
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+
+
+
+
