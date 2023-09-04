@@ -40,6 +40,18 @@
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  | Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. Foi utilizado para desenvolver o Back-end do site.| 
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> | O Visual Studio Code é um editor de código aberto altamente extensível. Foi ultilizado para o desenvolvimento do código. |
 | <img width="50 rem" src="https://camo.githubusercontent.com/f3d50fa050625f1e9f27ca9a22a022a289f09fcf17d3fa23055c1ea61df5d0cc/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f466c61736b2d313332343838383731393531313036353434372e706e67"/> | Flask é um microframework web em Python. Foi ultilizado para a criação do sistema. |
+
+## Contribuições pessoais
+<p align="justify">
+Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor  com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
+</p>
+
+## Hard Skills
+* Clonagem de Repositórios
+*
+
+
+## Soft Skills
  
 
 
