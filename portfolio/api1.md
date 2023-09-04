@@ -43,16 +43,18 @@
 
 ## Contribuições pessoais
 <p align="justify">
-Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor  com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
+Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
 </p>
 
 ## Hard Skills
 * Clonagem de Repositórios
-*
+* Criação de páginas em HTML e aplicação de estilos com CSS
+* Desenvolvimento de um servidor com Flask
+* Criação de uma REST API para facilitar a comunicação entre o servidor e o cliente
 
 
 ## Soft Skills
- 
+ * 
 
 
 
