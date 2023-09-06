@@ -19,6 +19,20 @@
 -  [x] Manual de instalação.
 -  [x] Organização do github.
 
+<h2>Backlog do produto</h2>
+
+Tarefa | Prioridade
+:--- | :--- |
+Levantamento de dados de cada github de todos os APIs já feitos. | Alta Prioridade
+Clonagem dos projetos. | Alta Prioridade
+Upload dos projetos clonados para o github. | Alta Prioridade
+Protótipo do site. | Alta Prioridade
+Desenvolvimento de automatizador de clonagem de projetos. | Alta Prioridade
+Desenvolvimento do site. | Média Prioridade
+Implementação do Flask nas páginas. | Média Prioridade
+Criação de um manual de instalação/instrução. | Baixa Prioridade
+Página "Contribua", com formulário, para requisitar acesso ao projeto. | Baixa Prioridade
+
 ###  Automatizador de clonagens
 <img src="https://github.com/mateushlsilva/API_1SEM/blob/main/imagens/automatizador_sprint2.gif"/>
 
