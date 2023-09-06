@@ -19,9 +19,9 @@ Com minha determinação e dedicação, estou confiante de que posso continuar a
 
 ## Principais conhecimentos
 
-| Front-end | Back-end | Banco de Dados | Sistema Operacional | Versionamento |Orquestração de containers|
-|-------------|-------------|-------------|-------------------|-------------|-------------------|
-|[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)|
+| Front-end | Back-end | Banco de Dados | Sistema Operacional | Versionamento |Orquestração de containers|Metodologia Ágil|
+|-------------|-------------|-------------|-------------------|-------------|-------------------|----------|
+|[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)| <img src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/scrum.png" height="28%" width="28%"/> |
 
 ## Projetos
 | Semestre | 
