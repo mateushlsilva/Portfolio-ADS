@@ -32,5 +32,18 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 <br>
 
 
+<h4> Entrega da Sprint 1 </h4>
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/MVP.gif"></p>
+<h4> Entrega da Sprint 2 </h4>
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/Completo%20(gif).gif"></p>
+<h4> Entrega da Sprint 3 </h4>
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/Gif-Sprint3.gif"></p>
+<br>
+
+
+## Tecnologias utilizadas
+
+| Tecnologia | Descrição |
+|--------|-----------|
 
 
