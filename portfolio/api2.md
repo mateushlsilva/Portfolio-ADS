@@ -24,7 +24,12 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 
 <h2>Backlog do produto</h2>
 
-
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/Product%20backlog_Atualizado.png"></p>
+ 
+ ## Sprints
+<p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/backlog_sprints.png"></p>  
+ 
+<br>
 
 
 
