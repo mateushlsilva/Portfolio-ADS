@@ -14,3 +14,18 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 - [x] Envio de mensagens individuais para um usuário do sistema;
 - [x] Envio de mensagens coletivas para os grupos do sistema;
 - [x] Relatório de pessoas ou grupos a quem mais enviei mensagens.
+
+
+## Requisitos não funcionais
+
+- [x] Linguagem Java Desktop;
+- [x] SGBD MySQL;
+- [x] Documentações;
+
+<h2>Backlog do produto</h2>
+
+
+
+
+
+
