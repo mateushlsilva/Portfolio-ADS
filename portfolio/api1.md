@@ -69,9 +69,9 @@ Durante o desenvolvimento do projeto, desempenhei um papel integral e diversific
 
 ## Soft Skills
  * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
- * Colaboração: Ser capaz de trabalhar de forma harmoniosa com colegas, contribuindo com ideias, apoiando outros membros e compartilhando responsabilidades.
- * Empatia: Compreender as perspectivas e necessidades dos outros membros da equipe, demonstrando empatia e consideração por suas experiências.
- * Flexibilidade: Ser adaptável às mudanças e disposto a aceitar sugestões e feedback dos outros membros da equipe.
+ * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
+ * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
+ * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
  * Comprometimento: Demonstrar compromisso com os objetivos da equipe, cumprir prazos e cumprir responsabilidades de forma confiável.
 
 
