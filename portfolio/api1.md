@@ -68,7 +68,7 @@ Durante o desenvolvimento do projeto, desempenhei um papel integral e diversific
 
 
 ## Soft Skills
- * Comunicação: A capacidade de se expressar de forma clara e ouvir atentamente os outros membros da equipe é fundamental para uma comunicação eficaz.
+ * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
  * Colaboração: Ser capaz de trabalhar de forma harmoniosa com colegas, contribuindo com ideias, apoiando outros membros e compartilhando responsabilidades.
  * Empatia: Compreender as perspectivas e necessidades dos outros membros da equipe, demonstrando empatia e consideração por suas experiências.
  * Flexibilidade: Ser adaptável às mudanças e disposto a aceitar sugestões e feedback dos outros membros da equipe.
