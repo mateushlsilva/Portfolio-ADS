@@ -72,7 +72,7 @@ Durante o desenvolvimento do projeto, desempenhei um papel integral e diversific
  * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
  * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
  * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
- * Comprometimento: Demonstrar compromisso com os objetivos da equipe, cumprir prazos e cumprir responsabilidades de forma confiável.
+ * Comprometimento: O comprometimento desempenhou um papel crucial na garantia do cumprimento das responsabilidades de cada membro da equipe.
 
 
 
