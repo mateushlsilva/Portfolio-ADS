@@ -24,13 +24,13 @@ Com minha determinação e dedicação, estou confiante de que posso continuar a
 | <img src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/scrum.png" height="30%" width="30%"/> <img src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/kanban.png" height="30%" width="30%" /> |[![My Skills](https://skillicons.dev/icons?i=html,css,js,react )](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)| [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
 
 ## Projetos
-| Semestre | 
-|----------|
-| [1º Semestre](https://github.com/mateushlsilva/Portfolio-ADS/blob/main/portfolio/api1.md) |
-| 2º Semestre |
-| 3º Semestre |
-| 4º Semestre |
-| 5º Semestre |
+| Semestre | Ano | Descrição |
+|----------|------|----------|
+| [1º Semestre](https://github.com/mateushlsilva/Portfolio-ADS/blob/main/portfolio/api1.md) | 2021.2 | Em 2020, a Fatec de São José dos Campos adotou o Aprendizado por Projetos Integrados em todos os cursos. Para evitar perda de dados, os projetos individuais foram clonados e armazenados em uma conta institucional no GitHub.|
+| 2º Semestre | 2022.1 |  |
+| 3º Semestre | 2022.2 | |
+| 4º Semestre | 2023.1 | |
+| 5º Semestre | 2023.2 | |
 
 
 
