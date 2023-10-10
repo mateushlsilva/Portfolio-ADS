@@ -45,5 +45,10 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 
 | Tecnologia | Descrição |
 |--------|-----------|
-
+| <img width="50 rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5vASFLQlFoW4hQCWAWm7S5F9OLjTh30Qsu5JZ69MIjwnGMyo_rgfGgnbQ6URGB_Zigc&usqp=CAU"/> | Foi utilizado no armazenamento dos dados. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | Foi utilizado para a criação do diagrama do banco de dados.|
+| <a href="https://github.com/EquipeApolo/API_1SEM" ><img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </a> | Foi utilizado para a hospedagem do código. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  | Foi utilizado para desenvolver o app.| 
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |Foi ultilizado para o desenvolvimento do código. |
+| <img width="50 rem" src="https://camo.githubusercontent.com/f3d50fa050625f1e9f27ca9a22a022a289f09fcf17d3fa23055c1ea61df5d0cc/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f466c61736b2d313332343838383731393531313036353434372e706e67"/> | Foi ultilizado para a criação do sistema. |
 
