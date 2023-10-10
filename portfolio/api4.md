@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-
 
 ## Contribuições pessoais
 <p align="justify">
-No decorrer do projeto, assumi um papel abrangente e multifacetado, que incluiu a criação de um servidor utilizando Express com TypeScript. Essa etapa englobou a implementação de uma API REST para viabilizar a comunicação eficiente entre o servidor e o cliente, assegurando o pleno funcionamento de todo o sistema.
+Ao longo do projeto, desempenhei um papel versátil e abrangente, que abarcou desde a criação de um servidor utilizando Express com TypeScript até a implementação de uma API REST para facilitar a comunicação eficaz entre o servidor e o cliente, garantindo o funcionamento integral do sistema. Além disso, assumi a responsabilidade de ser o Scrum Master da equipe.
 </p>
 
 ## Hard Skills
