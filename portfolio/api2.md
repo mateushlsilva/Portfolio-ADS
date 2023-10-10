@@ -40,6 +40,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 <p align="center"> <img src = "https://github.com/Equipe3-API/API-2-Semestre/blob/main/Imagens%20README/Gif-Sprint3.gif"></p>
 <br>
 
+<a href="https://github.com/EquipeApolo/API-2-Semestre">Github da Equipe</a>
 
 ## Tecnologias utilizadas
 
@@ -52,6 +53,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 | <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> |Foi ultilizado para o desenvolvimento do código. |
 | <img width="50 rem" src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png"/> | Foi ultilizado para a prototipagem das telas. |
 | <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" /> | Foi ultilizado para a comunicação. |
+
 
 
 ## Contribuições pessoais
