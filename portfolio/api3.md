@@ -19,17 +19,30 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 
 <h2>Backlog do produto</h2>
 
-Tarefa | Prioridade
-:--- | :--- |
-Levantamento de dados de cada github de todos os APIs já feitos. | Alta Prioridade
-Clonagem dos projetos. | Alta Prioridade
-Upload dos projetos clonados para o github. | Alta Prioridade
-Protótipo do site. | Alta Prioridade
-Desenvolvimento de automatizador de clonagem de projetos. | Alta Prioridade
-Desenvolvimento do site. | Média Prioridade
-Implementação do Flask nas páginas. | Média Prioridade
-Criação de um manual de instalação/instrução. | Baixa Prioridade
-Página "Contribua", com formulário, para requisitar acesso ao projeto. | Baixa Prioridade
+| Sprint | Atividade | Status |
+|:-----:|:---------:|:---------:|
+| 01 | Página de cálculo do comprimento de pista. | :heavy_check_mark: |
+| 01 | Interface de cálculo visando acesso via tablet. | :heavy_check_mark: |
+| 01 | Aplicar sistemas de unidade de medida. | :heavy_check_mark: |
+| 02 | Página de cadastro de aeronaves. | :heavy_check_mark: |
+| 02 | Realização da lógica dos cálculos a partir das tabelas. | :heavy_check_mark: |
+| 02 | Adequar interface às configurações da aeronave. | :heavy_check_mark: |
+| 02 | Banco de dados na nuvem. | :heavy_check_mark: |
+| 02 | Aplicação de validação de campos nos cálculos. | :heavy_check_mark: |
+| 03 | Página de visualização e edição de aeronaves. | :heavy_check_mark: |
+| 03 | Aplicar uma solução agnóstica a tabela fornecida para os cálculos. | :heavy_check_mark: |
+| 03 | Adaptar cadastro de aeronaves para a solução agnóstica. | :heavy_check_mark: |
+| 03 | CRUD de aeronaves completo. | :heavy_check_mark: |
+| 04 | CRUD de flaps completo. | :heavy_check_mark: | 
+| 04 | Páginas de visualização, cadastro e edição de flaps. | :heavy_check_mark: |
+| 04 | Página de histórico de cálculos. | :heavy_check_mark: |
+| 04 | Ajuste nas unidades de medida da página de cálculo. | :heavy_check_mark: |
+| 04 | CRUD de usuários completo. | :heavy_check_mark: |
+| 04 | Página de visualização, cadastro e edição de usuários. | :heavy_check_mark: |
+| 04 | Upar servidor na nuvem. | :heavy_check_mark: |
+| 04 | Navegação do sistema administrativo (paginação). | :heavy_check_mark: |
+| 04 | Página de login. | :heavy_check_mark: |
+| 04 | Documentação para explicação e how-to da solução agnóstica apresentada. | :heavy_check_mark: |
 
 ###  Automatizador de clonagens
 <img src="https://github.com/mateushlsilva/API_1SEM/blob/main/imagens/automatizador_sprint2.gif"/>
