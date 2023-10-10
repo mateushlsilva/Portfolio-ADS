@@ -3,7 +3,7 @@
 ## Sobre o projeto 
 
 <p align="justify">
-O projeto tem como finalidade criar uma interface para que os pilotos de aeronaves possam, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para tal cálculo, uma tabela foi disponibilizada para que todos os fatores sejam levados em consideração. Tais fatores são: modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem.
+O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados internos para a Ionic Health. Essa plataforma deve ser capaz de receber demandas de correção urgente (hotfix) e novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, deve permitir a aprovação de novas funcionalidades por um comitê de avaliação. Com essa plataforma, a empresa poderia melhorar a comunicação interna, colaboração entre as equipes e monitorar o desempenho do processo de desenvolvimento de produtos.
 </p>
 
 ## Requistos funcionais
@@ -18,31 +18,7 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 - [x] Documentações;
 
 <h2>Backlog do produto</h2>
-
-| Sprint | Atividade | Status |
-|:-----:|:---------:|:---------:|
-| 01 | Página de cálculo do comprimento de pista. | :heavy_check_mark: |
-| 01 | Interface de cálculo visando acesso via tablet. | :heavy_check_mark: |
-| 01 | Aplicar sistemas de unidade de medida. | :heavy_check_mark: |
-| 02 | Página de cadastro de aeronaves. | :heavy_check_mark: |
-| 02 | Realização da lógica dos cálculos a partir das tabelas. | :heavy_check_mark: |
-| 02 | Adequar interface às configurações da aeronave. | :heavy_check_mark: |
-| 02 | Banco de dados na nuvem. | :heavy_check_mark: |
-| 02 | Aplicação de validação de campos nos cálculos. | :heavy_check_mark: |
-| 03 | Página de visualização e edição de aeronaves. | :heavy_check_mark: |
-| 03 | Aplicar uma solução agnóstica a tabela fornecida para os cálculos. | :heavy_check_mark: |
-| 03 | Adaptar cadastro de aeronaves para a solução agnóstica. | :heavy_check_mark: |
-| 03 | CRUD de aeronaves completo. | :heavy_check_mark: |
-| 04 | CRUD de flaps completo. | :heavy_check_mark: | 
-| 04 | Páginas de visualização, cadastro e edição de flaps. | :heavy_check_mark: |
-| 04 | Página de histórico de cálculos. | :heavy_check_mark: |
-| 04 | Ajuste nas unidades de medida da página de cálculo. | :heavy_check_mark: |
-| 04 | CRUD de usuários completo. | :heavy_check_mark: |
-| 04 | Página de visualização, cadastro e edição de usuários. | :heavy_check_mark: |
-| 04 | Upar servidor na nuvem. | :heavy_check_mark: |
-| 04 | Navegação do sistema administrativo (paginação). | :heavy_check_mark: |
-| 04 | Página de login. | :heavy_check_mark: |
-| 04 | Documentação para explicação e how-to da solução agnóstica apresentada. | :heavy_check_mark: |
+<img src="https://user-images.githubusercontent.com/86448876/243207923-b494d41d-2a8f-4622-821b-ee0fb6dc02f2.png"/>
 
 ### Cadastro de Flap 
 <p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/features3sprint.gif"></p>
