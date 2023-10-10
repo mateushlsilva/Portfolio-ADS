@@ -7,26 +7,29 @@ O projeto consiste em desenvolver uma plataforma de gerenciamento de chamados in
 </p>
 
 ## Requistos funcionais
-- [x] Cadastros de modelos de aeronaves;
-- [x] Perfis diferentes (administrador, usuário);
-- [x] Interface amigável para cálculo de perfomace via celular ou tablet;
-- [x] Gerar cálculo do comprimento mínimo da pista de pouso pelos fatores considerados;
-- [x] Gerar histórico dos cálculos realizados;
+- [x] Cadastro de grupo de usuários;
+- [x] Permissão por grupo e por usuário;
+- [x] Distinção de usuários por times;
+- [x] Fila de chamados para cada time;
+- [x] Configuração e personalização de formulário de chamados;
+- [x] Árvore de Decisão para escalonamento de chamados;
+- [x] Cadastro de soluções para problemas conhecidos;
+- [x] Formulário de abertura de chamado com indicação de interessados;
 
 ## Requisitos não funcionais
-- [x] Linguagem Typescript;
-- [x] Documentações;
+- [x] React;
+- [x] NodeJS;
 
 <h2>Backlog do produto</h2>
 <img src="https://user-images.githubusercontent.com/86448876/243207923-b494d41d-2a8f-4622-821b-ee0fb6dc02f2.png"/>
 
-### Cadastro de Flap 
-<p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/features3sprint.gif"></p>
+### Crud de Usuarios 
+https://user-images.githubusercontent.com/86115352/233875755-5246a1ff-8b22-466d-9b65-061e43662dbd.mp4
 
-### Calculo do Pouso 
-<p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/sprint_4.gif"></p>
+### Avaliação dos Chamados
+https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-a84d-9995c23f0cf9.mp4
 
-<a href="https://github.com/EquipeApolo/API_3_Semestre">Github da Equipe</a>
+<a href="https://github.com/peonia-api/API_4_Semestre">Github da Equipe</a>
 
 
 ## Tecnologias utilizadas
