@@ -61,10 +61,10 @@ Durante o desenvolvimento do projeto, desempenhei um papel integral e diversific
 </p>
 
 ## Hard Skills
-* Clonagem de Repositórios
-* Criação de páginas em HTML e aplicação de estilos com CSS
-* Desenvolvimento de um servidor com Flask
-* Criação de uma REST API para facilitar a comunicação entre o servidor e o cliente
+* Clonagem de Repositórios: Sei fazer com autonomia.
+* Criação de páginas em HTML e aplicação de estilos com CSS: Sei fazer com autonomia.
+* Desenvolvimento de um servidor com Flask: Sei fazer com autonomia.
+* Criação de uma REST API para facilitar a comunicação entre o servidor e o cliente: Sei fazer com autonomia.
 
 
 ## Soft Skills
