@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-
 
 | Tecnologia | Descrição |
 |--------|-----------|
-| <img width="50 rem" src="https://github.com/mateushlsilva/Portfolio-ADS/blob/main/imagens/mysql.png"/> | Foi utilizado no armazenamento dos dados. |
+| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  | Foi utilizado no armazenamento dos dados. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | Foi utilizado na criação das páginas. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | Foi utilizado para a estilização do site.|
 | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | Foi utilizado na criação do site.|
@@ -44,8 +44,9 @@ https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-
 | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  | Foi utilizado para desenvolver o Back-end do site.| 
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |Foi ultilizado para o desenvolvimento do código. |
 | [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) | Foi ultilizado para o desenvolver o Back-end do site. |
-| <img width="50 rem" src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png"/> | Foi ultilizado para a prototipagem das telas. |
+|  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Foi ultilizado para a prototipagem das telas. |
 | <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" /> | Foi ultilizado para a comunicação. |
+|  [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)  | Foi ultilizado para a hospedagem do site. |
 
 ## Contribuições pessoais
 <p align="justify">
