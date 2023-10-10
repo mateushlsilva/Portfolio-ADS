@@ -50,7 +50,7 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 ### Calculo do Pouso 
 <p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/sprint_4.gif"></p>
 
-<a href="https://github.com/EquipeApolo/API_1SEM">Github da Equipe</a>
+<a href="https://github.com/EquipeApolo/API_3_Semestre">Github da Equipe</a>
 
 
 ## Tecnologias utilizadas
