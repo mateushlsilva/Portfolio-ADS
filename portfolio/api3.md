@@ -70,7 +70,7 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 
 ## Contribuições pessoais
 <p align="justify">
-Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
+No decorrer do projeto, assumi um papel abrangente e multifacetado, que incluiu a criação de um servidor utilizando Express com TypeScript. Essa etapa englobou a implementação de uma API REST para viabilizar a comunicação eficiente entre o servidor e o cliente, assegurando o pleno funcionamento de todo o sistema.
 </p>
 
 ## Hard Skills
