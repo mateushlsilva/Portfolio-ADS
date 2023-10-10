@@ -53,3 +53,24 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 | <img width="50 rem" src="https://i.pinimg.com/originals/ea/2a/b2/ea2ab287b40acfe28348c71eb780d11c.png"/> | Foi ultilizado para a prototipagem das telas. |
 | <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" /> | Foi ultilizado para a comunicação. |
 
+
+## Contribuições pessoais
+<p align="justify">
+Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
+</p>
+
+## Hard Skills
+* Criação e manutenção do banco de dados: Sei fazer com autonomia.
+* Criação dos diagramas de relacionamento do banco de dados: Sei fazer com autonomia.
+* Desenvolvimento do app usando java: Sei fazer com ajuda.
+* Conexão do banco de dados com o app: Sei fazer com autonomia.
+
+
+## Soft Skills
+ * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
+ * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
+ * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
+ * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
+ * Comprometimento: O comprometimento desempenhou um papel crucial na garantia do cumprimento das responsabilidades de cada membro da equipe.
+
+
