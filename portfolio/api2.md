@@ -46,7 +46,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 | Tecnologia | Descrição |
 |--------|-----------|
 | <img width="50 rem" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5vASFLQlFoW4hQCWAWm7S5F9OLjTh30Qsu5JZ69MIjwnGMyo_rgfGgnbQ6URGB_Zigc&usqp=CAU"/> | Foi utilizado no armazenamento dos dados. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | Foi utilizado para a criação do diagrama do banco de dados.|
+| <img width="50 rem" src="https://www.zigg.com.br/media/cache/1e/a2/1ea2a29278d9b611422b2e3cc7bd2e76.jpg"/>  | Foi utilizado para a criação do diagrama do banco de dados.|
 | <a href="https://github.com/EquipeApolo/API_1SEM" ><img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </a> | Foi utilizado para a hospedagem do código. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  | Foi utilizado para desenvolver o app.| 
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |Foi ultilizado para o desenvolvimento do código. |
