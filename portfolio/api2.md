@@ -56,7 +56,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 
 ## Contribuições pessoais
 <p align="justify">
-Durante o desenvolvimento do projeto, desempenhei um papel integral e diversificado, abrangendo desde a clonagem de repositórios até a criação de páginas em HTML, aplicação de estilos com CSS e, ainda mais, o desenvolvimento de um servidor com Flask. Esse processo envolveu a implementação de uma REST API para facilitar a comunicação entre o servidor e o cliente, garantindo a funcionalidade de todo o sistema.
+Durante o desenvolvimento do projeto, desempenhei o papel de criar e manter o banco de dados, abrangendo desde a modelagem das tabelas até a integração do banco com a aplicação.
 </p>
 
 ## Hard Skills
