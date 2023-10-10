@@ -44,13 +44,11 @@ O projeto tem como finalidade criar uma interface para que os pilotos de aeronav
 | 04 | Página de login. | :heavy_check_mark: |
 | 04 | Documentação para explicação e how-to da solução agnóstica apresentada. | :heavy_check_mark: |
 
-###  Automatizador de clonagens
-<img src="https://github.com/mateushlsilva/API_1SEM/blob/main/imagens/automatizador_sprint2.gif"/>
+### Cadastro de Flap 
+<p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/features3sprint.gif"></p>
 
-### Página contribua
-
-<img src="https://github.com/mateushlsilva/API_1SEM/blob/main/imagens/pagina_contribua.gif"/>
-
+### Calculo do Pouso 
+<p align="center"> <img width="100%" src = "https://github.com/mateushlsilva/API_3_Semestre/blob/main/imagens/sprint_4.gif"></p>
 
 <a href="https://github.com/EquipeApolo/API_1SEM">Github da Equipe</a>
 
