@@ -32,15 +32,17 @@ Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que p
 - [ ] Banco de dados mobile para armazenamento dos dados atualizados dos equipamentos durante estado offline do App;
 
 <h2>Backlog do produto</h2>
-<img src="https://user-images.githubusercontent.com/86448876/243207923-b494d41d-2a8f-4622-821b-ee0fb6dc02f2.png"/>
+<img src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20priorizado%20-%202ª%20Sprint.png"/>
 
-### Crud de Usuarios 
-https://user-images.githubusercontent.com/86115352/233875755-5246a1ff-8b22-466d-9b65-061e43662dbd.mp4
 
-### Avaliação dos Chamados
-https://user-images.githubusercontent.com/86115352/233877053-97b2f78b-c03e-4a55-a84d-9995c23f0cf9.mp4
 
-<a href="https://github.com/peonia-api/API_4_Semestre">Github da Equipe</a>
+### Cadastro de usuário
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Cadastro_Usu%C3%A1rio.gif)
+
+### Login e operação
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login_Opera%C3%A7%C3%A3o.gif)
+
+<a href="https://github.com/peonia-api/API_5_Semestre">Github da Equipe</a>
 
 
 ## Tecnologias utilizadas
