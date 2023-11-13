@@ -69,10 +69,8 @@ Durante o desenvolvimento do projeto, desempenhei uma função crucial na criaç
 
 
 ## Soft Skills
- * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
- * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
- * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
- * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
- * Comprometimento: O comprometimento desempenhou um papel crucial na garantia do cumprimento das responsabilidades de cada membro da equipe.
+ * Comunicação: Durante as reuniões de equipe, apresentei minhas ideias de forma clara e concisa.
+ * Flexibilidade: Durante o projeto, busquei ser flexível para incorporar melhorias e novas funcionalidades.
+ * Comprometimento: Durante o projeto, demonstramos comprometimento para assegurar o cumprimento das responsabilidades de cada membro da equipe.
 
 
