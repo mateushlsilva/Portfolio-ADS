@@ -58,7 +58,7 @@ O projeto tem como finalidade organizar a comunicação da empresa com os client
 
 ## Contribuições pessoais
 <p align="justify">
-Durante o desenvolvimento do projeto, desempenhei o papel de criar e manter o banco de dados, abrangendo desde a modelagem das tabelas até a integração do banco com a aplicação.
+Durante o desenvolvimento do projeto, desempenhei uma função crucial na criação e manutenção do banco de dados. Minhas responsabilidades incluíram a elaboração da modelagem das tabelas e a integração eficaz do banco de dados com a aplicação. Além disso, assumi a gestão contínua do banco de dados na nuvem, assegurando sua operação suave e desempenho otimizado ao longo de todo o ciclo de vida do projeto.
 </p>
 
 ## Hard Skills
