@@ -55,6 +55,7 @@ Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que p
 | Tecnologia | Descrição |
 |--------|-----------|
 | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  | Foi utilizado no armazenamento dos dados. |
+| [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)  | Foi utilizado no armazenamento dos dados. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | Foi utilizado na criação das páginas. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | Foi utilizado para a estilização do site.|
 | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | Foi utilizado na criação do site.|
@@ -64,7 +65,7 @@ Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que p
 | [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) | Foi ultilizado para o desenvolver o Back-end do site. |
 |  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Foi ultilizado para a prototipagem das telas. |
 | <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" /> | Foi ultilizado para a comunicação. |
-|  [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)  | Foi ultilizado para a hospedagem do site. |
+|  [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)  | Foi ultilizado para a hospedagem dos micro serviços. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  | Foi utilizado para desenvolver a authenticator 2fa.| 
 | <img width="50 rem" src="https://camo.githubusercontent.com/f3d50fa050625f1e9f27ca9a22a022a289f09fcf17d3fa23055c1ea61df5d0cc/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f466c61736b2d313332343838383731393531313036353434372e706e67"/> | Foi ultilizado para desenvolver a authenticator 2fa. |
 
