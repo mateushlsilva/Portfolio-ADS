@@ -81,11 +81,9 @@ No decorrer do projeto, assumi um papel abrangente e multifacetado, que incluiu 
 
 
 ## Soft Skills
- * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
- * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
- * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
- * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
- * Comprometimento: O comprometimento desempenhou um papel crucial na garantia do cumprimento das responsabilidades de cada membro da equipe.
+ * Comprometimento: Durante o projeto, demonstramos comprometimento para assegurar o cumprimento das responsabilidades de cada membro da equipe.
+ * Empatia: Durante o processo de desenvolvimento, compreendemos os conhecimentos individuais de cada membro e buscamos facilitar o apoio mútuo entre todos os participantes.
+ * Comunicação: Durante o processo de desenvolvimento, enfrentamos várias dúvidas. Para assegurar alinhamento e prevenir conflitos, concentramos nossos esforços em aprimorar a eficácia da comunicação.
 
 
 
