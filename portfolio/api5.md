@@ -81,12 +81,9 @@ Durante o projeto, assumi a liderança no gerenciamento do servidor da aplicaç�
 
 
 ## Soft Skills
- * Comunicação: A comunicação foi essencial para facilitar a compreensão do projeto e para disseminar ideias de maneira eficaz.
- * Colaboração: A colaboração desempenhou um papel fundamental ao estimular a criação de ideias, proporcionar suporte aos membros da equipe e garantir a distribuição justa de responsabilidades entre todos os participantes.
- * Empatia: A empatia desempenhou um papel fundamental ao permitir o entendimento dos conhecimentos individuais de cada membro e ao facilitar o apoio mútuo durante o processo de desenvolvimento.
- * Flexibilidade: A flexibilidade foi essencial para a incorporação de melhorias e novas funcionalidades.
- * Comprometimento: O comprometimento desempenhou um papel crucial na garantia do cumprimento das responsabilidades de cada membro da equipe.
-
+* Comunicação: Durante as reuniões de equipe, apresentei minhas ideias de forma clara e concisa. 
+* Flexibilidade: Durante o projeto, busquei ser flexível para incorporar melhorias e novas funcionalidades.
+* Colaboração: Ao longo do processo de desenvolvimento, desempenhamos um papel crucial ao fomentar a criação de ideias, oferecer suporte aos membros da equipe e assegurar uma distribuição equitativa de responsabilidades entre todos os participantes.
 
 
 
