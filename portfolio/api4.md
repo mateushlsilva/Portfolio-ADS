@@ -54,6 +54,7 @@ Durante o projeto, desempenhei o papel crucial de Scrum Master da equipe, orient
 </p>
 
 ## Hard Skills
+* Atuar como Scrum Master: Sei fazer com autonomia.
 * Desenvolvimento de um servidor com Express: Sei fazer com autonomia.
 * Criação de uma REST API para facilitar a comunicação entre o servidor e o cliente: Sei fazer com autonomia.
 * Ligação do servidor com o front-end: Sei fazer com autonomia.
