@@ -70,14 +70,13 @@ Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que p
 
 ## Contribuições pessoais
 <p align="justify">
-Ao longo do projeto, desempenhei um papel versátil e abrangente, que abarcou desde a criação de um servidor utilizando Express com TypeScript até a implementação de uma API REST para facilitar a comunicação eficaz entre o servidor e o cliente, garantindo o funcionamento integral do sistema. Além disso, assumi a responsabilidade de ser o Scrum Master da equipe.
+Durante o projeto, assumi a liderança no gerenciamento do servidor da aplicação, organizando bancos de dados para uma arquitetura poliglota e desenvolvendo micro serviços para uma abordagem versátil. Minhas responsabilidades abrangeram a criação de micro serviços com Express, TypeScript, e integração com bancos relacionais, como o PostgreSQL, e não relacionais, como o MongoDB. Além disso, desenvolvi micro serviços dedicados ao CRUD de usuários da aplicação e outro para autenticação de 2FA, utilizando Python e Flask. Essa abordagem abrangente foi fundamental para o sucesso do projeto.
 </p>
 
 ## Hard Skills
-* Desenvolvimento de um servidor com Express: Sei fazer com autonomia.
-* Criação de uma REST API para facilitar a comunicação entre o servidor e o cliente: Sei fazer com autonomia.
-* Ligação do servidor com o front-end: Sei fazer com autonomia.
-
+* Desenvolvimento de micro serviços: Sei fazer com autonomia.
+* Desenvolvimento da arquitetura poliglota: Sei fazer com autonomia.
+* Gerenciamento do servidor e banco de dados: Sei fazer com autonomia.
 
 
 ## Soft Skills
