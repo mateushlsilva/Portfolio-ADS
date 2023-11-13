@@ -1,6 +1,7 @@
 <h1 align="center" >5º Semestre (2023.2)</h1>
 
 ## Sobre o projeto 
+<details> <summary>Sobre o projeto</summary>
 
 <p align="justify">
 Como parte das atividades das áreas de engenharia de empresas de Saneamento, Elétrica, Telecomunicações e outros tipos de negócios em que as áreas demandam a realização de obras e manutenção de equipamentos em campo, se faz necessário utilizar uma aplicação móvel onde seja possível realizar a gestão dos dados relativos aos equipamentos (ativos) da companhia, via aplicativo móvel, possibilitando manter o cadastro dos ativos atualizados.
@@ -9,6 +10,8 @@ Este recurso é amplamente utilizado em processos de manobras, onde um equipamen
 
 Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).
 </p>
+</details>
+
 
 ## Requistos funcionais
 - [x] Cadastro de equipamentos (Ativos), incluindo foto;
@@ -32,7 +35,9 @@ Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que p
 - [ ] Banco de dados mobile para armazenamento dos dados atualizados dos equipamentos durante estado offline do App;
 
 <h2>Backlog do produto</h2>
-<img src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20priorizado%20-%202ª%20Sprint.png"/>
+<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%201ª%20Sprint.png"/>
+<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20priorizado%202ª%20Sprint.png"/>
+<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%203ª%20Sprint.png"/>
 
 
 
