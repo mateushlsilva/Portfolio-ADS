@@ -4,11 +4,11 @@
 <details> <summary>Sobre o projeto</summary>
 
 <p align="justify">
-Como parte das atividades das áreas de engenharia de empresas de Saneamento, Elétrica, Telecomunicações e outros tipos de negócios em que as áreas demandam a realização de obras e manutenção de equipamentos em campo, se faz necessário utilizar uma aplicação móvel onde seja possível realizar a gestão dos dados relativos aos equipamentos (ativos) da companhia, via aplicativo móvel, possibilitando manter o cadastro dos ativos atualizados.
+Na indústria petrolífera e em embarcações de exploração de petróleo existem locais de acesso restrito denominados Red Zone. Por segurança, nestas Red Zones deve haver o monitoramento da quantidade de acessos, que é feito atualmente por meio de câmeras nos locais. Essas imagens são monitoradas por guardas e todos os registros de entrada e saída desses locais são lançados manualmente em planilhas.
 
-Este recurso é amplamente utilizado em processos de manobras, onde um equipamento precisa ser desativado para que seja realizada uma manutenção. Durante esta etapa de manutenção parte da rede de serviços pode ser afetada, e por sua vez afetar os clientes conectados a ela, e ter o cadastro destes ativos atualizados em campo em tempo real é primordial para que a qualidade dos serviços prestados para os consumidores.
+Por ser um trabalho manual, como dito anteriormente, as anotações estão suscetíveis a falha humana e a geração de relatórios acaba sendo trabalhosa. Por esse motivo, a Altave Intelligent Monitoring, empresa parceira, propôs o desenvolvimento de um sistema automático para contabilização do número de pessoas que entram e saem de cada Red Zone. Importante lembrar ainda que a câmera utilizada para o monitoramento desses locais cobre todos os pontos de entrada e saída, mas pode não alcançar toda a área da Red Zone.
 
-Dessa forma, o projeto consiste no desenvolvimento de um aplicativo mobile que permita o gerenciamento (online e offline) de equipamentos públicos em campo (Ativos) para a Imagem Geosistemas. Esse aplicativo deve ainda ser capaz de garantir a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e exibindo esses equipamentos em tempo real nos mapas (conforme a posição geográfica do usuário em um raio de 10km).
+Diante desse contexto, o sistema deverá fornecer uma interface que possibilite ao usuário visualizar a quantidade pessoas em tempo real no local, bem como consultar a movimentação naquela região em determinado período de tempo a ser selecionado pelo usuário. Além disso, o sistema poderá monitorar diversas Red Zones em cada departamento, portanto, será necessário que o acesso seja restrito a cada guarda de cada departamento, de modo que apenas o gerente de segurança terá acesso aos dados de todos os locais. 
 </p>
 </details>
 
