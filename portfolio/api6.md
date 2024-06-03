@@ -47,22 +47,20 @@ https://github.com/peonia-api/API_6_Semestre/assets/89168187/090ee18a-0a31-4f6a-
 
 ## Tecnologias utilizadas
 
-| Tecnologia | Descrição |
-|--------|-----------|
-| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  | Foi utilizado no armazenamento dos dados. |
-| [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)  | Foi utilizado no armazenamento dos dados. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | Foi utilizado na criação das páginas. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | Foi utilizado para a estilização do site.|
-| [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | Foi utilizado na criação do site.|
-| <a href="https://github.com/EquipeApolo/API_1SEM" ><img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </a> | Foi utilizado para a hospedagem do código. |
-| [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  | Foi utilizado para desenvolver o Back-end do site.| 
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> |Foi ultilizado para o desenvolvimento do código. |
-| [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) | Foi ultilizado para o desenvolver o Back-end do site. |
-|  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Foi ultilizado para a prototipagem das telas. |
-| <img width="50 rem" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" /> | Foi ultilizado para a comunicação. |
-|  [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)  | Foi ultilizado para a hospedagem dos micro serviços. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  | Foi utilizado para desenvolver a authenticator 2fa.| 
-| <img width="50 rem" src="https://camo.githubusercontent.com/f3d50fa050625f1e9f27ca9a22a022a289f09fcf17d3fa23055c1ea61df5d0cc/68747470733a2f2f69636f6e732d666f722d667265652e636f6d2f69636f6e66696c65732f706e672f3531322f466c61736b2d313332343838383731393531313036353434372e706e67"/> | Foi ultilizado para desenvolver a authenticator 2fa. |
+
+- [Git](https://git-scm.com): Versionamento de código
+- [GitHub](https://github.com/): Armazenamento de código
+- [Teams](https://teams.microsoft.com): Comunicação interna do grupo
+- [Slack](https://slack.com/intl/pt-br): Comunicação com o cliente
+- [DevOps](https://azure.microsoft.com/pt-br/products/devops): Planejamento e gestão do projeto
+- [Docker](https://docs.docker.com/): Integração entre Front-End e Back-End
+- [PostgreSQL](https://www.postgresql.org/): Banco de dados SQL
+- [MongoDB](https://www.mongodb.com/pt-br): Banco de dados NoSQL
+- [Python](https://www.python.org/): Automação com inteligência artificial
+- [Java](https://www.java.com/pt-BR/): Aplicação de lógica de programação no back-end
+- [Spring](https://spring.io/): Framework de desenvolvimento de aplicações Java 
+- [Vue](https://vuejs.org/): Framework para a construção de interfaces web
+- [Typescript](https://www.typescriptlang.org/): Linguagem de programação aplicada para front-end
 
 ## Contribuições pessoais
 <p align="justify">
