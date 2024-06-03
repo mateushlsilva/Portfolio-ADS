@@ -68,9 +68,8 @@ Durante o projeto, assumi a liderança no gerenciamento do servidor da aplicaç�
 </p>
 
 ## Hard Skills
-* Desenvolvimento de micro serviços: Sei fazer com autonomia.
-* Desenvolvimento da arquitetura poliglota: Sei fazer com autonomia.
-* Gerenciamento do servidor e banco de dados: Sei fazer com autonomia.
+* Treinamento do modelo: Sei fazer com autonomia.
+* Desenvolvimento da lógica de entradas e saídas: Sei fazer com autonomia.
 
 
 ## Soft Skills
