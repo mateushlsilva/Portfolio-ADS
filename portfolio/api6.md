@@ -37,11 +37,10 @@ Diante desse contexto, o sistema deverá fornecer uma interface que possibilite 
 
 
 
-### Cadastro de usuário
-![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Cadastro_Usu%C3%A1rio.gif)
+https://github.com/peonia-api/API_6_Semestre/assets/89168187/307bdcd5-6fd6-4efe-8a84-45373aff0209
 
-### Login e operação
-![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login_Opera%C3%A7%C3%A3o.gif)
+
+https://github.com/peonia-api/API_6_Semestre/assets/89168187/090ee18a-0a31-4f6a-b983-75bdac78030a
 
 <a href="https://github.com/peonia-api/API_5_Semestre">Github da Equipe</a>
 
