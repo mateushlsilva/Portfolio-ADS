@@ -64,7 +64,7 @@ https://github.com/peonia-api/API_6_Semestre/assets/89168187/090ee18a-0a31-4f6a-
 
 ## Contribuições pessoais
 <p align="justify">
-Durante o projeto, assumi a liderança no gerenciamento do servidor da aplicação, organizando bancos de dados para uma arquitetura poliglota e desenvolvendo micro serviços para uma abordagem versátil. Minhas responsabilidades abrangeram a criação de micro serviços com Express, TypeScript, e integração com bancos relacionais, como o PostgreSQL, e não relacionais, como o MongoDB. Além disso, desenvolvi micro serviços dedicados ao CRUD de usuários da aplicação e outro para autenticação de 2FA, utilizando Python e Flask. Essa abordagem abrangente foi fundamental para o sucesso do projeto.
+Durante o projeto, assumi a liderança no desenvolvimento e treinamento do modelo de inteligência artificial. Além de supervisionar a equipe, fui responsável por definir a arquitetura do modelo e otimizar seu desempenho. Também apliquei o modelo na verificação e monitoramento das entradas e saídas das red zones, garantindo a precisão e a eficácia do sistema em identificar atividades relevantes.
 </p>
 
 ## Hard Skills
