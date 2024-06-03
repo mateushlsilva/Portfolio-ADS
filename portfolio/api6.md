@@ -32,9 +32,8 @@ Diante desse contexto, o sistema deverá fornecer uma interface que possibilite 
 - [x] Acesso a organização do desenvolvimento (kanban, git...);
 
 <h2>Backlog do produto</h2>
-<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%201ª%20Sprint.png"/>
-<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20priorizado%202ª%20Sprint.png"/>
-<image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%203ª%20Sprint.png"/>
+<image src="https://github.com/peonia-api/API_6_Semestre/blob/main/Images/Backlog%20do%20Produto.png"/>
+
 
 
 
