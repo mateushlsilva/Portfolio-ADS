@@ -14,25 +14,22 @@ Diante desse contexto, o sistema deverá fornecer uma interface que possibilite 
 
 
 ## Requistos funcionais
-- [x] Cadastro de equipamentos (Ativos), incluindo foto;
-- [x] Ativação e desativação de equipamentos;
-- [x] Visualização geográfica dos equipamentos cadastrados (tanto os ativos quanto os inativos);
-- [x] Visualização detalhada dos equipamentos disponíveis no raio de ação do App;
-- [x] Filtros de busca de equipamentos (baseado no seu tipo);
-- [x] Cadastro de usuários, incluindo foto;
-- [x] Liberação de usuários mediante processo de autenticação;
-- [x] Recuperação de senha por meio de código (6 dígitos);
-- [x] Criptografia de senhas;
-- [x] Busca de equipamentos cadastrados (raio de 10km) de acordo com posição geográfica do App;
-- [x] Sincronização de dados online em até 30 segundos após uso offline da aplicação;
+- [x] Desenvolver uma interface web intuitiva para visualização dos registros em forma de relatórios;
+- [x] Permitir exportação de relatórios contendo os registros do monitoramento realizado;
+- [x] Implementar modelo de machine learning para automatizar o monitoramento das red zones;
+- [x] Implementar método de autenticação de usuários;
+- [x] Criar seção para gestão de usuários;
+- [x] Permitir a inclusão e exclusão de usuários no sistema;
+- [x] Criar seção para gestão de red zones, permitindo a inclusão e exclusão de red zones do sistema;
+- [x] Desenvolver um dashboard com indicadores por períodos;
+- [x] Permitir que o usuário aplique filtros por períodos para análise dos dados.
 
 ## Requisitos não funcionais
-- [x] Aplicação de dois fatores para autenticação em cada acesso (A2F);
-- [x] Implementação de persistência poliglota;
-- [ ] Condições de iluminação de tela adaptáveis à necessidade do usuário;
-- [ ] Segurança das informações em caso de perda do dispositivo móvel;
-- [x] Validação dos dados inseridos na aplicação (equipamentos e usuários);
-- [ ] Banco de dados mobile para armazenamento dos dados atualizados dos equipamentos durante estado offline do App;
+
+- [x] Manual do Usuário;
+- [x] Documentação do sistema;
+- [x] Guia de instalação; Front - Back - IA;
+- [x] Acesso a organização do desenvolvimento (kanban, git...);
 
 <h2>Backlog do produto</h2>
 <image src="https://github.com/peonia-api/API_5_Semestre/blob/main/images/Backlog%20Priorizado%201ª%20Sprint.png"/>
